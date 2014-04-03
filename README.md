@@ -29,4 +29,3 @@ Please feel free to use a different markup language if you do not plan to run
 # Ruby on Rails Tutorial: first application
 
 This is the first applicatin for the [*Ruby on Rails Tutorial*] (http://railstutorial.org/) by [Michael Hartl] (http://michaelhartl.com/).
-This is an example
